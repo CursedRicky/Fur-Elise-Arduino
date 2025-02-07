@@ -2,4 +2,4 @@
 Für Elise Song played by an Arduino
 
 # Circuit
-![image](https://github.com/user-attachments/assets/08201638-f9c7-4ffb-aa0d-6fdf728a9c81)
+![image](https://github.com/user-attachments/assets/6563698d-3ae0-4554-8b47-c2b584ec4cb6)
